@@ -1,5 +1,12 @@
-
 # Todo API
+
+## 기술 스택
+
+- React.js, Spring Boot, JPA, MySQL
+
+## ERD
+
+![database](https://user-images.githubusercontent.com/63398654/152964747-d306b85e-b050-44df-bbf4-a2a5869742c6.png)
 
 ## 구현 기능
 
